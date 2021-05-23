@@ -1,5 +1,5 @@
 # Data Analysis with Python
-## The project is about performing analysis on a given dataset. My dataset was about automobile insurance claim policies. 
+## The project is about performing analysis on a given dataset. My dataset was about automobile insurance claim policies. Used Jupyter Notebook for the project
 ## Features:
 1. Downloading the dataset
 2. Data preparation and Cleaning of the dataset.
